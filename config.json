@@ -1,0 +1,8 @@
+{
+        "csv": "C:\Users\Sushama\Desktop\Spring 2016\IS690Q Big Data\Assignment\Assignment 2\train.csv",
+        "db": "titanicdata",
+        "user": "f5137263-7d04-4aaa-ade1-835588a31f6a-bluemix",
+        "api_key": "duressearachimantsibleci",
+        "api_secret": "efdc99d33043d00fa437c078784356d59abf4322",
+        "chunk_size": 5000
+}
